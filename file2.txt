@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ver3.0
+=======
+//create file2 and change it
+>>>>>>> master
