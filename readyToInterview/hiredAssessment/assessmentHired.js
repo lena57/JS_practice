@@ -19,7 +19,8 @@ function maxProfit(prices) {
 
 console.log(maxProfit([6, 10, 4, 2, 10, -6, 12]))
 
-//given a string , find the length of longest substring that contains no repeated characters
+//given a string , find the length of the longest substring that
+// contains no repeated characters
 function lengthOfLongestSubstring(s) {
   let longest = 0
   let start = 0
